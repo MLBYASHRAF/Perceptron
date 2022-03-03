@@ -17,3 +17,10 @@ conda create --prefix ./env python=3.7 -y
 ```
 conda activate ./env
 ```
+## this is for vscode
+.vscode/
+
+## make directory command
+```
+mkdir Research_env
+```
